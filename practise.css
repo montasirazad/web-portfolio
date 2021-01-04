@@ -1,0 +1,21 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+h1{
+    font-size: 100px;
+    color: orange;
+    background-color: palegreen;
+    height: 200px;
+    width: 400px;
+}
+
+h2{
+    font-size: 75px;
+    color: purple;
+}
+
+p{
+    font-size: 35px;
+}
+
+ 
