@@ -10,12 +10,22 @@ h1{
 }
 
 h2{
-    font-size: 75px;
+    font-size: 55px;
     color: purple;
 }
 
 p{
-    font-size: 35px;
+    font-size: 30px;
 }
 
- 
+.L1{
+ color: rgb(21, 255, 0);    
+}
+
+#l5{
+    color: blue;
+}
+
+h3.L1{
+    font-size: 75px;
+}
